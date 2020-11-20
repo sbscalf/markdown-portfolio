@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Animals
+  * Cats
+  * Dogs
+* Games
+  * Dark Souls
+  * Super Mario Bros.
